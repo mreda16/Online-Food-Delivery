@@ -5,6 +5,6 @@ This will be the meta repository of a mono-repo solution applying Microservices 
 
 Still in the Research, planning & designing phase.
 
-All the details (like the architecture, stack, microservices list, communication pattern, Kubernetes' helm charts, kafka topics & events and all the other details) will be added ASAP.
+All the details (like the architecture, stack, microservices list, communication pattern, Kubernetes' helm charts, Redis Caching Strategy, ElasticSearch as a search engine, kafka topics & events, CI/CD tool and all the other details) will be added ASAP.
 
 After that i will start implementing :)
